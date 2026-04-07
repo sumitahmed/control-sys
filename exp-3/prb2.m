@@ -21,3 +21,4 @@ title('ramp fn');
 
 subplot(1,3,3), plot(t, rparab, t, yparab);
 title('parabolic fn');
+
